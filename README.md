@@ -1,17 +1,9 @@
-<div class=warning_header>
-<div class=warning_text style="font-size:32px; font-weight:bold;">
-⚠️ Warning ⚠️
-</div>
+# ⚠️ ==Warning== ⚠️
 
----
-
-<div class=warning_text style="padding-bottom:16px">
 If you are seeing this text and are about to submit your project, don't.
-</div>
-<div class=warning_text>
+
 The reason you are seeing this text is because you haven't updated the README file for your repository yet. That means there are points on the project rubric that you are giving up. Make the time to update this file before you call your project "done". If you are looking at the README.md file directly instead of in a browser, you can delete everything above the line says "# Project Description".
-</div>
-</div>
+
 
 # Project Description
 [PUT YOUR PROJECT DESCRIPTION HERE]

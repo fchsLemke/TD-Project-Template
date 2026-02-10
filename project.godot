@@ -15,6 +15,14 @@ config/version="1.0"
 config/features=PackedStringArray("4.5", "C#", "Forward Plus")
 config/icon="uid://b7vwhkkimxmsl"
 
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/size/mode=2
+window/size/resizable=false
+window/stretch/mode="canvas_items"
+
 [dotnet]
 
 project/assembly_name="UI Project"
