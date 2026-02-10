@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dimxy53r5hpdt"
-path="res://.godot/imported/Ogre_hit.png-ee5d99cb52235e5b869abda08f8a8a93.ctex"
+uid="uid://b7vwhkkimxmsl"
+path="res://.godot/imported/Monkey.png-590608de702713434ca4e61ef8488c81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Ogre_hit.png"
-dest_files=["res://.godot/imported/Ogre_hit.png-ee5d99cb52235e5b869abda08f8a8a93.ctex"]
+source_file="res://Assets/Icons/Monkey.png"
+dest_files=["res://.godot/imported/Monkey.png-590608de702713434ca4e61ef8488c81.ctex"]
 
 [params]
 
