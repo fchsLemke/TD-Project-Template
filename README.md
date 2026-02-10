@@ -16,7 +16,15 @@
 }
 </style>
 
-<div class=warning_header>
+<div style="
+	color:#010409;
+	background-color:coral;
+	border-radius:15px;
+	padding-bottom:15px;
+	padding-left:15px;
+	padding-right:15px;
+	font-size: 32px;
+">
 <div class=warning_text style="font-size:32px; font-weight:bold;">
 ⚠️ Warning ⚠️
 </div>
